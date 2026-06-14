@@ -134,7 +134,7 @@ ggplot(df, aes(x = date_tested, y = incidence, color = age_group)) +
   theme_classic()
 
 
-#How save my script
+#How to save my script
 save.image()
 
 #how to easily quite all my session
