@@ -140,6 +140,9 @@ save.image()
 #how to easily quite all my session
 q()
 
+###Now how can I share it with Gloria end Neema??
+
+
 
   
 
